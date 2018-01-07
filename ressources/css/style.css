@@ -20,13 +20,36 @@ h3{
   font-weight: bold;
   color: gray;
 }
+
 h4{
   font-size: 18px;
   color: white;
-  text-decoration: underline;
+  text-decoration: underline
 }
 
 p{
   font-size: 14px;
   color: gray;
+}
+
+.header{
+  background-image: url('images/the-flatiron-building.png');
+}
+
+.backgroundtext{
+  font-size: 18px;
+  color: white;
+  text-decoration: underline;
+  text-align: left !important;
+}
+.specialh3{
+  background-image: url('images/the-flatiron-building.png');
+  color: white;
+}
+
+.copyright{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left !important;
 }
